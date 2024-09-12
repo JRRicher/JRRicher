@@ -3,7 +3,7 @@
 Hey Friends, 
 my name is Jacob! See the image below for example.
 
-<img src="assets/IMG_1156.JPG"
+<img src="Assets/IMG_1156.JPG"
 width=300
 height=400 />
 

@@ -1,7 +1,4 @@
-# JRRicher
-
-Hey Friends, 
-my name is Jacob! See the image below for example.
+### Hey Friends, my name is Jacob!
 
 <img src="Assets/IMG_1156.JPG"
 width=300
@@ -9,7 +6,9 @@ height=400 />
 
 *Earth Day Circa 2010* 🌎
 
-I am a server at the Board Room Game Cafe, I love playing guitar and have spent **WAY** too much money on Magic the Gathering!
+I work at the Board Room Game Cafe, I love playing guitar and have spent **WAY** too much money on Magic the Gathering!
+I also enjoy longboard dancing and teaching others how to skate!
+
 
 ## What is My Program?
 I am majoring in Psychology and minoring in Religious Studies. This is *hopefully* my last semester of undergrad!
